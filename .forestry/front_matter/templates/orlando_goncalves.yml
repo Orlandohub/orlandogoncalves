@@ -8,5 +8,3 @@ fields:
   label: Orlando the man
   default: some description
   description: Hello
-pages:
-- content/about.md
