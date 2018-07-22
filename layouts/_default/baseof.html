@@ -10,8 +10,9 @@
 <body>
   {{ partial "header.html" . }}
   <section class="main_wrapper">
-    {{ .Content }}
+    {{ block "main" . }}
+
+    {{end}}
   </section>
 </body>
 </html>
-

@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta name="generator" content="Hugo 0.45" />
-  <meta charset="UTF-8">
-  <title>Orlando Gonçalves</title>
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-  <link rel="stylesheet" href="./assets/stylesheets/main.css">
-</head>
-<body>
-  <nav class="main-nav">
-  
-  
-  <a href="https://drive.google.com/file/d/0Bwa3QntIqT-dM2owUGVCNHZCUmc/view?usp=sharing" target="_blank">Curriculum Vitae</a>
-  
-</nav>
-  <section class="main_wrapper">
-    <div class="profile">
+
+
+<div class="profile">
   <section class="wrapper">
     <header id="header">
       <a href="#">
@@ -28,7 +12,7 @@
   </section>
 </div>
 
-<p><div class="tech_stack">
+<div class="tech_stack">
   <a href="https://python.org" target="_blank"><img src="./assets/images/python-logo.ico" alt="Python"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./assets/images/js-logo.jpg" alt="JavaScript"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/images/django-logo.png" alt="Django"></a>
@@ -52,8 +36,5 @@
   So, who am I? <br> <br>
   Orlando Manuel Dias Gonçalves <br>
   Software Developer, Project Manager, Account Manager, beside many others.
-</p></p>
+</p>
 
-  </section>
-</body>
-</html>
