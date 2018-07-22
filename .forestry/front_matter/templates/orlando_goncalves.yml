@@ -2,6 +2,11 @@
 label: orlando_goncalves
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: orlando_the_man
+  label: Orlando the man
+  default: some description
+  description: Hello
 pages:
 - content/about.md
