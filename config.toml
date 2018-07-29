@@ -1,5 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Orlando Goncalves"
 enableRobotsTXT = true
-canonifyURLs = true
