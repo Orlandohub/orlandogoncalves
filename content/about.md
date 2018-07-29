@@ -1,7 +1,6 @@
 ---
-title: "About"
-date: 2018-07-22T23:33:58+02:00
-draft: false
----
+title: About
+date: 2018-07-22 21:33:58 +0000
 
-Please display me
+---
+Please display me and something else
