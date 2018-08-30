@@ -3,9 +3,6 @@
 <div class="profile">
   <section class="wrapper">
     <header id="header">
-      <a href="#">
-        <img src="./assets/images/avatar.png" alt="Orlando Gonçalves" id="avatar">
-      </a>
       <h1>Orlando Gonçalves</h1>
       <h2>Software Developer</h2>
     </header>
