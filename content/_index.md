@@ -21,8 +21,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="./assets/images/postgresql-logo.svg" alt="PostgreSQL"></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="./assets/images/mysql-logo.png" alt="MySQL"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/images/mongodb-logo.jpeg" alt="MongoDB"></a>
-  <a href="https://www.nginx.com/" target="_blank"><img src="./assets/images/nginx-logo.png" alt="Nginx"></a>
-  <a href="https://www.ubuntu.com/" target="_blank"><img src="./assets/images/ubuntu-logo.png" alt="Ubuntu"></a>
 </div>
 <h3>
   <strong>Who Am I?</strong>
