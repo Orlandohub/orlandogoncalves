@@ -22,14 +22,4 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="./assets/images/mysql-logo.png" alt="MySQL"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/images/mongodb-logo.jpeg" alt="MongoDB"></a>
 </div>
-<h3>
-  <strong>Who Am I?</strong>
-</h3>
-<p>
-  A human being in love with life and inspired by beauty in a restless struggle to find out what makes my heart beat. <br>
-  By chance, like the best things in life, I found coding and building solutions in the media sphere brought me the fire which guided me through amazing adventures and unforgettable people. <br> <br>
-  So, who am I? <br> <br>
-  Orlando Manuel Dias Gonçalves <br>
-  Software Developer, Project Manager, Account Manager, beside many others.
-</p>
 
